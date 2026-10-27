@@ -1,0 +1,12 @@
+{
+  "name": "NEON FRONTIER",
+  "short_name": "NEON FRONTIER",
+  "description": "Jogo independente de exploração urbana, coleta e construção.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080d18",
+  "theme_color": "#080d18",
+  "icons": []
+}
